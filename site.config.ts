@@ -14,14 +14,14 @@ export default siteConfig({
   author: 'Clark Weckmann',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Hey, my name is Clark Weckmann and I\'m a DevOps engineer located on Earth, for now. Feel free to ask me questions about any of my projects listed here or anywhere else you find me! You can read more about me in The Voyage STL and at Clark.Today.',
 
   // social usernames (optional)
   twitter: 'TheWeckmann',
-  github: 'Clarkhacks',
+  // github: 'Clarkhacks',
+  newsletter: "https://digest.clark.today/",
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
-  // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)

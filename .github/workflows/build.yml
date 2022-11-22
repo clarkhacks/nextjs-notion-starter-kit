@@ -17,6 +17,6 @@ jobs:
       - name: build
         #        TODO Enable those lines below if you use a Redis cache, you'll also need to configure GitHub Repository Secrets
         #        env:
-        #          REDIS_HOST: ${{ secrets.REDIS_HOST }}
-        #          REDIS_PASSWORD: ${{ secrets.REDIS_PASSWORD }}
+                #  REDIS_HOST: ${{ secrets.REDIS_HOST }}
+                #  REDIS_PASSWORD: ${{ secrets.REDIS_PASSWORD }}
         run: yarn build

@@ -64,6 +64,7 @@ export default class MyDocument extends Document {
             <Main />
 
             <NextScript />
+            <script async defer data-website-id="458dcf36-8573-44af-965f-7245a13a381d" src="https://umami.soup.cool/umami.js"></script>
           </body>
         </Html>
       </IconContext.Provider>

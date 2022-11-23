@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Clark Weckmann',
-  domain: 'blog.clark.today',
+  domain: 'dev.blog.clark.today',
   author: 'Clark Weckmann',
 
   // open graph metadata (optional)

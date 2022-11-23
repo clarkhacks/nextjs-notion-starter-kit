@@ -26,8 +26,8 @@ export const PageAside: React.FC<{
 
     return (
       <>
-        <PageActions tweet={tweet} />
         <BackArrow />
+        <PageActions tweet={tweet} />
       </>
     )
   }
